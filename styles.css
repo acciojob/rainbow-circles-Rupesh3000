@@ -13,6 +13,7 @@ div {
     border: solid 25px #0000ff;
     background-color: #800080;
     border-radius: 50%;
+    margin: 25px;
 }
 
 #middle {
@@ -21,6 +22,7 @@ div {
     border: solid 25px #ffff00;
     background-color: #008000;
     border-radius: 50%;
+    margin: 25px;
 }
 
 #outer {
